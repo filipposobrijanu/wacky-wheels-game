@@ -1,35 +1,31 @@
+# Wacky Wheels
 
-# 🎮 Wacky Wheels Game
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-Wacky Wheels is a **high-octane**, **physics-based driving game** that throws players into a whirlwind of absurd challenges and outrageous tracks! Race through chaotic, **obstacle-laden courses** filled with traps, and unpredictable hazards—where every turn could send you flipping, spinning, or soaring into hilarious disaster. Unlock a wild roster of **customizable vehicles**, each with unique handling and quirks, as you master increasingly insane levels designed to test your reflexes and creativity.
+A high-octane, physics-based racing game built in Unity. Featuring chaotic tracks, unpredictable hazards, and a customizable vehicle roster, Wacky Wheels is designed to test reflex-based gameplay and precision physics handling.
 
-![screenshot](Images/1.PNG)
----
+![Wacky Wheels Screenshot](Images/1.PNG)
 
-## 🛠️ Technologies Used
+## ✨ Core Features
 
-- **Unity**
-- **Unity UI / UGUI (Interface Design)**
-- **C#**
-- **VS Code** (development IDE)
+* **Physics-Driven Gameplay:** Utilizes Unity’s physics engine to handle complex vehicle dynamics, including high-speed collisions, spins, and air-time mechanics.
+* **Customizable Vehicle System:** Implements a modular vehicle architecture allowing for unique handling profiles and performance quirks for each player-controlled car.
+* **Dynamic Hazard Implementation:** Features procedurally placed traps and hazards that require players to adapt their driving style in real-time.
+* **Intuitive UGUI Interface:** A polished UI system that tracks race stats, vehicle selections, and menu navigation.
 
-![screenshot](Images/2.PNG)
----
+## 🛠️ Built With
 
-## 📄 License
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+</p>
 
-This project is open-source.
+![Game Interface](Images/2.PNG)
+![Hazard Mechanics](Images/4.PNG)
+![Vehicle Customization](Images/6.PNG)
 
-![screenshot](Images/4.PNG)
-![screenshot](Images/6.PNG)
----
+## 🚀 How to Run
 
-## 🤝 Contributing
-
-Pull requests are welcome! Please follow standard GitHub flow and keep the code clean and documented.
-
----
-
-## 📬 Contact
-
-For questions, contact me at [obrizanou@gmail.com](mailto:obrizanou@gmail.com) or open an issue.
+1. **Clone the repository:**
+```bash
+   git clone [https://github.com/filipposobrijanu/Wacky-Wheels-Game.git](https://github.com/filipposobrijanu/Wacky-Wheels-Game.git)
