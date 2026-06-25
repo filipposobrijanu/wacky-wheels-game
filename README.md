@@ -13,16 +13,16 @@
 
 ---
 
-### ✨ Core Features
+### Core Features
 
-* **Rigid Physics-Driven Mechanics:** Leverages Unity's 3D physics engine (`Rigidbody` manipulation, custom surface friction matrices, and precise angular velocity dampening) to simulate nuanced car mechanics, high-impact collisions, and tactile drift controls.
+* **Rigid Physics-Driven Mechanics:** Leverages Unity's 3D physics engine (`Rigidbody` manipulation, custom surface friction matrices, and precise angular velocity dampening) to simulate car mechanics, high-impact collisions, and tactile drift controls.
 * **Modular Vehicle Architecture:** Implements abstract object structures in C# to easily configure disparate wheel-torque profiles, weight distribution parameters, and engine power limits across the car roster.
 * **Dynamic Track Obstacles:** Integrates modular event-driven triggers and kinematic obstacles that test player handling in real time.
 * **Polished UI/UX (Unity UGUI):** Engineered with canvas optimizations, managing real-time responsive speedometers, contextual state changes, and unified menus.
 
 ---
 
-### 🛠️ Development Stack
+### Development Stack
 
 **Game Engine & Logic**
 <p align="left">
@@ -32,7 +32,7 @@
 
 ---
 
-### 📸 Gameplay & Systems Showcase
+### Gameplay & Systems Showcase
 
 <p align="center">
   <img src="Images/1.PNG" width="48%" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 🚀 How to Run & Build
+### How to Run & Build
 
 **1. Clone the repository:**
 ```bash
